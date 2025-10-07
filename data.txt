@@ -1,6 +1,6 @@
 Daftar kontribusi:
 
-- [o] Syifa Awalia menambahkan satu baris teks di sini.
+- [ Hallo semuanyaa! saya suka baca webtoon ] Syifa Awalia menambahkan satu baris teks di sini.
 
 
-- [ ] Anggota 2 menambahkan satu baris teks di sini.
+- [ ] Fahri Kecil menambahkan satu baris teks di sini.
