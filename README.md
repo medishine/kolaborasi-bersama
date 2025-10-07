@@ -4,5 +4,5 @@ Repository ini digunakan untuk latihan kolaborasi menggunakan Git dan GitHub.
 Setiap anggota kelompok diminta untuk melakukan perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
-- Syifa Awalia 
-- Nama Anggota 2
+- Syifa Awalia (2407218)
+- Fahri Bintang Kecil (24xxxx)
