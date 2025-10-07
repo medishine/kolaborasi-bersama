@@ -5,4 +5,4 @@ Setiap anggota kelompok diminta untuk melakukan perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
 - Syifa Awalia (2407218)
-- Fahri Bintang Kecil (24xxxx)
+- Fahri Bintang Maulana (2401706)
