@@ -3,4 +3,4 @@ Daftar kontribusi:
 - [ Hallo semuanyaa! saya suka baca webtoon ] Syifa Awalia menambahkan satu baris teks di sini.
 
 
-- [ ] Fahri Kecil menambahkan satu baris teks di sini.
+- [ Hallo saya suka mengaji ] Fahri Bintang menambahkan satu baris teks di sini.
